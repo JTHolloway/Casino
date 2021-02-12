@@ -1,4 +1,5 @@
 # Casino
+SEE NOTES AT BOTTOM FOR INFO
 LATEST UPDATE: Blackjack/Slots/Roulette are WIP. Three Card Poker is Only Working Game As of 11/02/21.
 
 Casino Game:
@@ -44,5 +45,6 @@ Stats:
 - Text Files: 1
 
 Notes:
+- Written in Intelleji, Wont open in Netbeans
 - Three Card Poker may seem rigged, but belive me its not, The dealer is just really really lucky!!
-- New user Starts with 10k Chips
+- New users Start with 10k Chips
