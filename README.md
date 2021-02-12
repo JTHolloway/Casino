@@ -32,6 +32,7 @@ Bug Fixes:
 - 09/02/2021 Fixed Bug which caused user info not not update after playing a game.
 - 09/02/2021 Fixed Bug Causing the program to perform an infinate loop if the player gets a Straight Flush
 - 10/02/2021 Fixed Bug with Auido
+- 10/02/2021 Fixed Bug where Ace was not considered High and Low, only high.
 
 Stats:
 - Storage Size: 15.8MB
@@ -41,3 +42,7 @@ Stats:
 - Sound Files: 8
 - Images: 59
 - Text Files: 1
+
+Notes:
+- Three Card Poker may seem rigged, but belive me its not, The dealer is just really really lucky!!
+- New user Starts with 10k Chips
