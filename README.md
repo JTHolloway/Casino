@@ -34,4 +34,10 @@ Bug Fixes:
 - 10/02/2021 Fixed Bug with Auido
 
 Stats:
-- 
+- Storage Size: 15.8MB
+- Active Methods: 133
+- Classes: 18
+- Packages: 11
+- Sound Files: 8
+- Images: 59
+- Text Files: 1
