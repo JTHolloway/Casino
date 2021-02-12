@@ -22,3 +22,16 @@ Features to be added:
 - Show Password Button 
 - Animation 
 - Account Settings Menu for Changing Email/Password/Username etc
+
+Bugs:
+- Three Card Poker Menu has a Short Delay Before Opening for the First Time, Any Attempts to open it after (while in the same session) do not expirence this delay.
+- Sound may sometimes expirence a delay on rare occations.
+
+Bug Fixes:
+- 08/02/2021 Fixed Bug which resulted in images failing to load.
+- 09/02/2021 Fixed Bug which caused user info not not update after playing a game.
+- 09/02/2021 Fixed Bug Causing the program to perform an infinate loop if the player gets a Straight Flush
+- 10/02/2021 Fixed Bug with Auido
+
+Stats:
+- 
