@@ -21,3 +21,4 @@ Features to be added:
 - Forgotten Password Button 
 - Show Password Button 
 - Animation 
+- Account Settings Menu for Changing Email/Password/Username etc
