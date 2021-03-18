@@ -27,6 +27,7 @@ Features to be added:
 Bugs:
 - Three Card Poker Menu has a Short Delay Before Opening for the First Time, Any Attempts to open it after (while in the same session) do not expirence this delay.
 - Sound may sometimes expirence a delay on rare occations.
+- When looking at rules menu in three card poker cards will dissappear. 
 
 Bug Fixes:
 - 08/02/2021 Fixed Bug which resulted in images failing to load.
